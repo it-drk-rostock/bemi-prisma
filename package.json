@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/BemiHQ/bemi-prisma.git"
+    "url": "git://github.com/it-drk-rostock/bemi-prisma.git"
   },
   "author": "",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/BemiHQ/bemi-prisma/issues"
+    "url": "https://github.com/it-drk-rostock/bemi-prisma/issues"
   },
-  "homepage": "https://github.com/BemiHQ/bemi-prisma#readme",
+  "homepage": "https://github.com/it-drk-rostock/bemi-prisma#readme",
   "dependencies": {
     "@prisma/driver-adapter-utils": "~5.20.0",
     "commander": "^11.1.0",
